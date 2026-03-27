@@ -1,0 +1,17 @@
+C:\OrderApp\OrderApp.BusinessLogic\bin\Debug\net8.0\OrderApp.BusinessLogic.deps.json
+C:\OrderApp\OrderApp.BusinessLogic\bin\Debug\net8.0\OrderApp.BusinessLogic.dll
+C:\OrderApp\OrderApp.BusinessLogic\bin\Debug\net8.0\OrderApp.BusinessLogic.pdb
+C:\OrderApp\OrderApp.BusinessLogic\bin\Debug\net8.0\OrderApp.DataAccess.dll
+C:\OrderApp\OrderApp.BusinessLogic\bin\Debug\net8.0\OrderApp.Domain.dll
+C:\OrderApp\OrderApp.BusinessLogic\bin\Debug\net8.0\OrderApp.DataAccess.pdb
+C:\OrderApp\OrderApp.BusinessLogic\bin\Debug\net8.0\OrderApp.Domain.pdb
+C:\OrderApp\OrderApp.BusinessLogic\obj\Debug\net8.0\OrderApp.BusinessLogic.csproj.AssemblyReference.cache
+C:\OrderApp\OrderApp.BusinessLogic\obj\Debug\net8.0\OrderApp.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrderApp\OrderApp.BusinessLogic\obj\Debug\net8.0\OrderApp.BusinessLogic.AssemblyInfoInputs.cache
+C:\OrderApp\OrderApp.BusinessLogic\obj\Debug\net8.0\OrderApp.BusinessLogic.AssemblyInfo.cs
+C:\OrderApp\OrderApp.BusinessLogic\obj\Debug\net8.0\OrderApp.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\OrderApp\OrderApp.BusinessLogic\obj\Debug\net8.0\OrderApp.468FBB08.Up2Date
+C:\OrderApp\OrderApp.BusinessLogic\obj\Debug\net8.0\OrderApp.BusinessLogic.dll
+C:\OrderApp\OrderApp.BusinessLogic\obj\Debug\net8.0\refint\OrderApp.BusinessLogic.dll
+C:\OrderApp\OrderApp.BusinessLogic\obj\Debug\net8.0\OrderApp.BusinessLogic.pdb
+C:\OrderApp\OrderApp.BusinessLogic\obj\Debug\net8.0\ref\OrderApp.BusinessLogic.dll

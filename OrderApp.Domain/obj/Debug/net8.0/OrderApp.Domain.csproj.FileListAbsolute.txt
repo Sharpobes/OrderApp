@@ -1,0 +1,11 @@
+C:\OrderApp\OrderApp.Domain\bin\Debug\net8.0\OrderApp.Domain.deps.json
+C:\OrderApp\OrderApp.Domain\bin\Debug\net8.0\OrderApp.Domain.dll
+C:\OrderApp\OrderApp.Domain\bin\Debug\net8.0\OrderApp.Domain.pdb
+C:\OrderApp\OrderApp.Domain\obj\Debug\net8.0\OrderApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrderApp\OrderApp.Domain\obj\Debug\net8.0\OrderApp.Domain.AssemblyInfoInputs.cache
+C:\OrderApp\OrderApp.Domain\obj\Debug\net8.0\OrderApp.Domain.AssemblyInfo.cs
+C:\OrderApp\OrderApp.Domain\obj\Debug\net8.0\OrderApp.Domain.csproj.CoreCompileInputs.cache
+C:\OrderApp\OrderApp.Domain\obj\Debug\net8.0\OrderApp.Domain.dll
+C:\OrderApp\OrderApp.Domain\obj\Debug\net8.0\refint\OrderApp.Domain.dll
+C:\OrderApp\OrderApp.Domain\obj\Debug\net8.0\OrderApp.Domain.pdb
+C:\OrderApp\OrderApp.Domain\obj\Debug\net8.0\ref\OrderApp.Domain.dll

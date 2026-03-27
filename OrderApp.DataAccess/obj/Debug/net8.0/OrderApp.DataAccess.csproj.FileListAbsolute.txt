@@ -1,0 +1,17 @@
+C:\OrderApp\OrderApp.DataAccess\bin\Debug\net8.0\OrderApp.DataAccess.deps.json
+C:\OrderApp\OrderApp.DataAccess\bin\Debug\net8.0\OrderApp.DataAccess.runtimeconfig.json
+C:\OrderApp\OrderApp.DataAccess\bin\Debug\net8.0\OrderApp.DataAccess.dll
+C:\OrderApp\OrderApp.DataAccess\bin\Debug\net8.0\OrderApp.DataAccess.pdb
+C:\OrderApp\OrderApp.DataAccess\bin\Debug\net8.0\OrderApp.Domain.dll
+C:\OrderApp\OrderApp.DataAccess\bin\Debug\net8.0\OrderApp.Domain.pdb
+C:\OrderApp\OrderApp.DataAccess\obj\Debug\net8.0\OrderApp.DataAccess.csproj.AssemblyReference.cache
+C:\OrderApp\OrderApp.DataAccess\obj\Debug\net8.0\OrderApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrderApp\OrderApp.DataAccess\obj\Debug\net8.0\OrderApp.DataAccess.AssemblyInfoInputs.cache
+C:\OrderApp\OrderApp.DataAccess\obj\Debug\net8.0\OrderApp.DataAccess.AssemblyInfo.cs
+C:\OrderApp\OrderApp.DataAccess\obj\Debug\net8.0\OrderApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\OrderApp\OrderApp.DataAccess\obj\Debug\net8.0\OrderApp.347E2EEE.Up2Date
+C:\OrderApp\OrderApp.DataAccess\obj\Debug\net8.0\OrderApp.DataAccess.dll
+C:\OrderApp\OrderApp.DataAccess\obj\Debug\net8.0\refint\OrderApp.DataAccess.dll
+C:\OrderApp\OrderApp.DataAccess\obj\Debug\net8.0\OrderApp.DataAccess.pdb
+C:\OrderApp\OrderApp.DataAccess\obj\Debug\net8.0\OrderApp.DataAccess.genruntimeconfig.cache
+C:\OrderApp\OrderApp.DataAccess\obj\Debug\net8.0\ref\OrderApp.DataAccess.dll
